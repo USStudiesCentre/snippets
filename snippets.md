@@ -1,0 +1,21 @@
+snippet col_au_us
+	<div class = "column-au">
+	\colau
+		
+	```{r}
+		  
+	```
+		 
+	</div>
+		   
+	\columnbreak
+		  
+	<div class = "column-us">
+	```{r}
+		 
+	```
+		 
+	</div>
+	\colus
+	
+	  
